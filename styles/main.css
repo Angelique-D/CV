@@ -9,12 +9,15 @@ body {
 
 header {
     background-color: lightblue;
-    object-position: right center; 
-    
+    height: 150px;
+    display: flex;
+    align-items: center;   
 }
 
 .main-image {
-    margin-left: 0;
+    margin-left: auto;
+    border: 3px solid 
+    
 }
 
 .main-content {
@@ -23,6 +26,7 @@ header {
     align-items: center;
     margin-top: 20px;
     margin-bottom: 20px;
+    padding: 40px;
 }
 
 
